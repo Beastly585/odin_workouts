@@ -1,0 +1,25 @@
+h1 {
+    
+    height: 100px;
+    width: 600px;
+    background-color: red;
+    color: yellow;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    background-color: aqua;
+    display: inline-block;
+    padding: 1em;
+}
+
+p {
+    color: purple;
+    background-color: blanchedalmond;
+}
+
+.h1txt {
+    color: blanchedalmond;
+    background-color: purple;
+}
