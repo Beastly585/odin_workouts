@@ -12,6 +12,26 @@ h2 {
     background-color: aqua;
     display: inline-block;
     padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: hsl(229, 87%, 43%);
+    display: inline-block;
+    background-color: orange;
+}
+
+ol {
+    color: green;
+}
+
+ul {
+    color: red;
+}
+
+ol ul {
+    color: blue;
 }
 
 p {
