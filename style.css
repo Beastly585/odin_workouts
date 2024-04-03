@@ -1,0 +1,25 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    background-color: hsla(0, 56%, 52%, 0.753);
+    margin:0 auto;
+    border: 2px solid red;
+    padding: 10px;
+    width: 500px;
+    box-sizing: border-box;
+    display: block;
+}
+
+h2 {
+    margin: 10px;
+}
+
+.h1txt {
+    display: inline;
+    border: 2px solid red;
+    padding: 10px;
+}
